@@ -1,0 +1,23 @@
+﻿# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Large raw data
+data/raw/Traffic_Collision_Data_from_2010_to_Present_20260127.csv
+
+# Local outputs / generated files
+outputs/
+*.db
+*.sqlite
+*.sqlite3
